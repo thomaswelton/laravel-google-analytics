@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/thomaswelton/laravel-facebook.png?branch=master)](https://travis-ci.org/thomaswelton/laravel-facebook)
-[![Latest Stable Version](https://poser.pugx.org/thomaswelton/laravel-facebook/v/stable.png)](https://packagist.org/packages/thomaswelton/laravel-facebook)
-[![Total Downloads](https://poser.pugx.org/thomaswelton/laravel-facebook/downloads.png)](https://packagist.org/packages/thomaswelton/laravel-facebook)
+[![Build Status](https://travis-ci.org/thomaswelton/laravel-google-analytics.png?branch=master)](https://travis-ci.org/thomaswelton/laravel-google-analytics)
+[![Latest Stable Version](https://poser.pugx.org/thomaswelton/laravel-google-analytics/v/stable.png)](https://packagist.org/packages/thomaswelton/laravel-google-analytics)
+[![Total Downloads](https://poser.pugx.org/thomaswelton/laravel-google-analytics/downloads.png)](https://packagist.org/packages/thomaswelton/laravel-google-analytics)
 
 
 # Installation
@@ -10,12 +10,12 @@ Update your `composer.json` file to include this package as a dependency
 "thomaswelton/laravel-google-analytics": "dev-master"
 ```
 
-Register the Facebook service provider by adding it to the providers array in the `app/config/app.php` file. 
+Register the GoogleAnalytics service provider by adding it to the providers array in the `app/config/app.php` file. 
 ```
 Thomaswelton\LaravelGoogleAnalytics\LaravelGoogleAnalyticsServiceProvider
 ```
 
-Alias the Facebook facade by adding it to the aliases array in the `app/config/app.php` file. 
+Alias the GoogleAnalytics facade by adding it to the aliases array in the `app/config/app.php` file. 
 ```php
 'aliases' => array(
 	'GoogleAnalytics' => 'Thomaswelton\LaravelGoogleAnalytics\Facades\GoogleAnalytics'
