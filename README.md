@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/thomaswelton/laravel-google-analytics.png?branch=master)](https://travis-ci.org/thomaswelton/laravel-google-analytics)
 [![Latest Stable Version](https://poser.pugx.org/thomaswelton/laravel-google-analytics/v/stable.png)](https://packagist.org/packages/thomaswelton/laravel-google-analytics)
 [![Total Downloads](https://poser.pugx.org/thomaswelton/laravel-google-analytics/downloads.png)](https://packagist.org/packages/thomaswelton/laravel-google-analytics)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thomaswelton/laravel-google-analytics/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
 # Installation
