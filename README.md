@@ -27,7 +27,7 @@ Alias the GoogleAnalytics facade by adding it to the aliases array in the `app/c
 
 Copy the config file into your project by running
 ```
-php artisan config:publish thomaswelton/laravel-google-analytics"
+php artisan config:publish thomaswelton/laravel-google-analytics
 ```
 
 Edit the config file to include your account ID
